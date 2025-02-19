@@ -2,10 +2,11 @@
 # Superconductor Critical Temperature Prediction
 This project involves developing a regression model to predict the critical temperature of superconductors based on features extracted from their properties. Using a dataset obtained from the UCI Machine Learning Repository, the model achieves high accuracy through advanced data preprocessing and machine learning techniques.
 
+You can view the project on Google Colab by clicking [here](https://colab.research.google.com/drive/16N-p4xVDmEnED1-Fla72lmvk7wH4POJa?usp=sharing).
 # Dataset Overview
 ### Source: 
 UCI Machine Learning Repository
-link: https://archive.ics.uci.edu/dataset/464/superconductivty+data
+[link](https://archive.ics.uci.edu/dataset/464/superconductivty+data)
 ### Description: 
 The dataset contains 81 features extracted from 21,263 superconductors. The critical temperature is provided as the 82nd column.
 ### Objective: 
